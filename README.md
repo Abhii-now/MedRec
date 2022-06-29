@@ -1,4 +1,6 @@
 <h1>MedRec: One stop DAPP to Access Your Medical Records</h1>
+<img width="1437" alt="image" src="https://user-images.githubusercontent.com/36236202/176426078-ad4ea690-cd2c-4691-b55f-6537d15dde1c.png">
+
 <h3> The Proposal</h3>
 
 Originally designed for keeping a ﬁnancial ledger, the blockchain paradigm can be extended to provide a generalized framework for implementing decentralized compute resources.
