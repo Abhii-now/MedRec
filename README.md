@@ -1,4 +1,5 @@
-<h1> The Proposal</h1>
+<h1>MedRec: One stop DAPP to Access Your Medical Records</h1>
+<h3> The Proposal</h3>
 
 Originally designed for keeping a ﬁnancial ledger, the blockchain paradigm can be extended to provide a generalized framework for implementing decentralized compute resources.
 We utilize Ethereum’s smart contracts on the Ethereum Blockchain using solidity to create intelligent representations of medical records of a patient, these contracts will also contain metadata of the permission management.  
