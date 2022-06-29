@@ -1,0 +1,33 @@
+.mainContainer {
+  /* display: flex; */
+  /* flex-direction: row; */
+  position: fixed;
+  min-height: 100%;
+  /* width: 100vw; */
+  /* align-items: center; */
+}
+
+.mainContainer {
+  background-color: yellow;
+  background-image: url("../../public/bg-image.jpg");
+  background-size: cover; /* <------ */
+  background-repeat: no-repeat;
+  /* background-position: center center; optional, center the image */
+}
+
+.row {
+  display: flex;
+  /* height: 50vh; */
+  align-items: center;
+
+  /* width: 100vw; */
+}
+.mainRow {
+  width: 100vw;
+  align-items: center;
+}
+.buttonCol {
+  display: flex;
+  justify-content: flex-start;
+  /* width: 50%; */
+}
